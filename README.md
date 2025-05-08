@@ -11,7 +11,7 @@ A web application for creating randomized granny square patterns for crochet pro
 - Generate randomized granny square layouts
 - Export your pattern as an image
 
-### Book-Inspired Generator (Stitching My Bookshelf)
+### Book-Inspired Generator
 - Upload book cover images to extract color palettes
 - Import your yarn stash from Excel/CSV
 - Automatically match book colors to your available yarns
