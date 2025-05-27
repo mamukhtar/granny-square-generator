@@ -44,7 +44,7 @@ const tropeColorMap: TropeInfo[] = [
   { name: "Revenge Turned Romance", color: "#A52A2A", description: "Intense emotions and unexpected depth" },
   { name: "Fairy Tale Retelling", color: "#00A550", description: "Classic and whimsical" },
   { name: "Mafia Romance", color: "#000000", description: "Danger, power, and passion" },
-  { name: "Dark Romance", color: "#87252D", description: "Darker, intense, and morally complex themes" },
+  { name: "Dark Romance", color: "#860889", description: "Darker, intense, and morally complex themes" },
   { name: "Accidental Pregnancy", color: "#860889", description: "Symbolizes hope, new beginnings, and a fresh chapter in life" }
 ];
 
