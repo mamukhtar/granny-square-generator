@@ -34,7 +34,7 @@ const tropeColorMap: TropeInfo[] = [
   { name: "Workplace Romance", color: "#797979", description: "Professionalism with a hint of intrigue" },
   { name: "Holiday Romance", color: "#FF3B30", description: "Festive, passionate, and cozy" },
   { name: "Marriage of Convenience", color: "#CBC4A9", description: "Subtlety and the evolution of a practical arrangement into love" },
-  { name: "Mythical/Paranormal Romance", color: "#800080", description: "Mysterious and magical vibes" },
+  { name: "Mythical/Paranormal Romance", color: "#60335f", description: "Mysterious and magical vibes" },
   { name: "Celebrity/Ordinary Person", color: "#EE8236", description: "Glamour and the allure of stardom" },
   { name: "Secret Identity/Hidden Past", color: "#808080", description: "Intrigue and hidden layers" },
   { name: "Sports Romance", color: "#A72221", description: "Energetic, competitive, and dynamic" },
